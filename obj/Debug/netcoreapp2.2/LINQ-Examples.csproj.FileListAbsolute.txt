@@ -1,0 +1,11 @@
+D:\PROJECTS\GIT\LINQ-Examples\bin\Debug\netcoreapp2.2\LINQ-Examples.deps.json
+D:\PROJECTS\GIT\LINQ-Examples\bin\Debug\netcoreapp2.2\LINQ-Examples.runtimeconfig.json
+D:\PROJECTS\GIT\LINQ-Examples\bin\Debug\netcoreapp2.2\LINQ-Examples.runtimeconfig.dev.json
+D:\PROJECTS\GIT\LINQ-Examples\bin\Debug\netcoreapp2.2\LINQ-Examples.dll
+D:\PROJECTS\GIT\LINQ-Examples\bin\Debug\netcoreapp2.2\LINQ-Examples.pdb
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.csprojAssemblyReference.cache
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.AssemblyInfo.cs
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.dll
+D:\PROJECTS\GIT\LINQ-Examples\obj\Debug\netcoreapp2.2\LINQ-Examples.pdb
