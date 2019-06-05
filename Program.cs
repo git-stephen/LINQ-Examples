@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace LINQ_Examples
 {
@@ -6,7 +7,11 @@ namespace LINQ_Examples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] strArray = new string[] { "one", "two", "three", "four", "five", "six", "seven"};
+
+            var NumberOfElements = strArray.Count();
+
+            Console.WriteLine(NumberOfElements);
         }
     }
 }
