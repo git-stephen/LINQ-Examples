@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj": {}
+    "d:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj": {}
   },
   "projects": {
-    "D:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj": {
+    "d:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj",
+        "projectUniqueName": "d:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj",
         "projectName": "LINQ-Examples",
-        "projectPath": "D:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj",
+        "projectPath": "d:\\PROJECTS\\GIT\\LINQ-Examples\\LINQ-Examples.csproj",
         "packagesPath": "C:\\Users\\Stephen\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECTS\\GIT\\LINQ-Examples\\obj\\",
+        "outputPath": "d:\\PROJECTS\\GIT\\LINQ-Examples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
