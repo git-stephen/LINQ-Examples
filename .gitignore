@@ -28,3 +28,4 @@ packages
 *.rar
 *.tar
 *.zip
+/.vs
